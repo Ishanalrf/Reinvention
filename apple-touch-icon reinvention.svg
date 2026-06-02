@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="115" fill="#1C1917"/>
+  <rect x="1" y="1" width="510" height="510" rx="114" fill="none" stroke="#B08D57" stroke-width="2" opacity="0.3"/>
+  <text x="256" y="310" font-family="Georgia, serif" font-size="280" fill="#B08D57" text-anchor="middle" font-style="italic" font-weight="300">I</text>
+  <rect x="156" y="355" width="200" height="1.5" fill="#B08D57" opacity="0.5"/>
+  <text x="256" y="400" font-family="Georgia, serif" font-size="36" fill="#B08D57" text-anchor="middle" letter-spacing="7" opacity="0.7" font-weight="300">REINVENTION</text>
+</svg>
